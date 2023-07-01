@@ -1,2 +1,5 @@
-# MineLics-Launcher
-A secure, custom and modern Minecraft Launcher
+# **MineLics Launcher™**
+
+## A Secure, custom and modern Minecraft Launcher
+
+The official versions in one launcher
